@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">PayU3DSSDKSampleApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_month">Expiry Month(mm)</string>
+    <string name="expiry_year">Expiry Year(yyyy)</string>
+    <string name="cvv">CVV</string>
+    <string name="submit">Submit</string>
+    <string name="card_token">Card Token</string>
+    <string name="network_token">Network Token</string>
+    <string name="user_cred">User Credentials</string>
+    <string name="decouple_flow">Decouple Flow</string>
+    <string name="openWebView">Open WebView</string>
+
+
+    <string name="btn_bg_hint">Background Color(Ex: #000000)</string>
+
+    <string name="btn_radius_hint">Corner Radius Size(Ex: 10)</string>
+    <string name="btn_textColor_hint">Text Color(Ex: #000000)</string>
+    <string name="btn_resend_textColor_hint">Resend Text Color(Ex: #000000)</string>
+    <string name="btn_font_Size">Font Size(Ex: 10)</string>
+
+
+    <string name="label_textColor_hint">Text Color(Ex: #000000)</string>
+
+    <string name="label_headingTextColor_hint">Heading Text Color(Ex: #000000)</string>
+    <string name="label_heading_fontSize_hint">Heading Font Size(Ex: 10)</string>
+
+    <string name="label_fontSize_hint">Font Size(Ex: 10)</string>
+
+    <string name="textBox_textColor_hint">Text Color(Ex: #000000)</string>
+
+    <string name="textBox_borderColor_hint">Border Color(Ex: #000000)</string>
+
+    <string name="textBox_borderWidth_hint">Border Width(Ex: 10)</string>
+    <string name="textBox_fontSize_hint">Font Size(Ex: 10)</string>
+    <string name="textBox_cornerRadius_hint">Corner Radius Size(Ex: 10)</string>
+
+    <string name="toolbar_bgColor_hint">Background Color(Ex: #000000)</string>
+    <string name="toolbar_btnText_hint">Button Text(Ex: Cancel)</string>
+    <string name="toolbar_headingText_hint">Heading Text(Ex: Payment)</string>
+    <string name="toolbar_textColor_hint">Text Color(Ex: #000000)</string>
+    <string name="toolbar_fontSize_hint">Font Size(Ex: 10)</string>
+    <string name="text_production">Production</string>
+    <string name="text_fallback">Fallback</string>
+    <string name="text_authenticate_only">Authenticate Only</string>
+    <string name="text_hash_timeout">Hash Timeout</string>
+    <string name="text_auto_read_otp">Auto Read</string>
+    <string name="text_auto_submit_otp">Auto Submit</string>
+    <string name="text_save_Card">Save Card</string>
+
+
+    <string name="customisation_textBox">Text Box Customisation</string>
+    <string name="customisation_toolbar">Toolbar Box Customisation</string>
+    <string name="customisation_button">Button Box Customisation</string>
+    <string name="customisation_label">Label Box Customisation</string>
+    <string name="customisation_bottom_sheet">Bottom sheet Customisation</string>
+    <string name="merchant_key">Key</string>
+    <string name="merchant_salt">Salt</string>
+    <string name="txn_id">Transaction ID</string>
+
+    <string name="bs_bg_color_hint">Background Color(Ex: #000000)</string>
+    <string name="bs_corner_radius_hint">Corner Radius size (Ex: 10)</string>
+    <string name="bs_font_color_hint">Font Color(Ex: #000000)</string>
+    <string name="bs_resend_font_color_hint">Resend Font Color(Ex: #000000)</string>
+    <string name="bs_font_size_hint">Font Size(Ex: 10)</string>
+    <string name="bs_label_font_size_hint">Label Font Size(Ex: 10)</string>
+    <string name="bs_heading_font_size_hint">Heading Font Size(Ex: 10)</string>
+    <string name="custom_ui_content">Custom Content</string>
+    <string name="custom_timer">Show Timer</string>
+    <string name="tv_merchant_name">Merchant Name</string>
+    <string name="tv_amount">Amount</string>
+    <string name="tv_otp_content">OTP Content</string>
+    <string name="tv_resend_btn_title">Resend Title</string>
+    <string name="tv_submit_btn_title">Submit Title</string>
+    <string name="customisation_custom_acs_content">Custom ACS Content</string>
+    <string name="tv_resend_otp_content">Resend OTP Content</string>
+    <string name="tv_resend_max_otp_content">Resend max OTP Content</string>
+
+</resources>
